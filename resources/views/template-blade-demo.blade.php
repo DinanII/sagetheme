@@ -1,4 +1,6 @@
-{{-- Blade Demo Template --}}
+{{--
+  Template Name: Blade Demo Template
+--}}
 @extends('layouts.app')
 
 @section('content')
